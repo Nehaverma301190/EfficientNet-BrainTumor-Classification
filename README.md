@@ -14,7 +14,7 @@ This repository contains the code, preprocessing scripts, and evaluation metrics
 
 ## 🗂️ Dataset
 - **BRATS 2020**: [https://www.med.upenn.edu/cbica/brats2020/](https://www.med.upenn.edu/cbica/brats2020/)  
-- **SARTAJ**: [https://figshare.com/articles/dataset/SARTAJ_Brain_Tumor_Dataset/14815387](https://figshare.com/articles/dataset/SARTAJ_Brain_Tumor_Dataset/14815387)  
+- **SARTAJ**: [SARTAJ Dataset]([https://figshare.com/articles/dataset/SARTAJ_Brain_Tumor_Dataset/14815387](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri))  
 
 ⚠️ Note: Due to licensing, we **do not host raw datasets**. Please download from the official sources.
 
